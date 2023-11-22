@@ -7,16 +7,31 @@ Ark Rules are the same as on the Official Servers (*Click here for further Infor
 3. The Admin will decide how to punish a rule violation.
 4. Forbidden Player Names: 123, Human, Mensch, Admin, Humano and every Type of language specific default name.
 5. The Admin does not have time to take care of Game Bugs which leads to loss of Dinos, Items or other things in the Game. This Game is Early Access. 
+6. This server grants 100% Offline Raid Protection.
 
 ***Building:***
 1. No Building in Artifact Caves. Only Sleeping Bags and Storage Boxes are allowed.
 2. Basespots which are not accessible by kneeling or crouching are forbidden.
+3. Structures have a Decay Timer due to ORP:
+    -Thatch 1 Day Offline
+    -Wood 2 Days Offline
+    -Stone 3 Days Offline
+    -Metal 4 Days Offline
+    -Tek 5 Days Offline
 
 ***Raiding:***
 1. No Offline Raiding - You can´t damage Offline Tribes 30 minutes after they have logged off.
 2. Pop-Corning while Raid will lead to ban.
 3. Abusing the ORP while getting Raided will lead to ban.
 4. If you have a good reason to leave before or while getting raided you need to tell the Raiders and make an appointment which the raiding Tribe accepts for the Raid to happen as soon as possible.
+
+***Tribe:***
+1. We recommend to register your Tribe on Discord to prevent get autowiped after Decay Time
+2. Max Tribe Limit = 2 Players
+
+***Alliances:***
+1. Currently no Alliances possible
+2. When ORP will be replaced with a mod we will allow 1 Alliance per Tribe -> 2 Tribes per Alliance.
 
 ***Chat:***
 1. No Spamming in Chat
